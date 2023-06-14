@@ -1,6 +1,7 @@
 # learning_bloc
 
 Youtube Tutorial link: https://www.youtube.com/watch?v=fjQmow2TFYY&t=55s
+
 In this fast-paced and concise Flutter tutorial, you will dive into the world of BLoC (Business Logic Component) architecture and learn how to leverage its power to create robust and reactive Flutter applications. In just under 20 minutes, you'll discover the core concepts of BLoC and gain hands-on experience implementing it in your projects.
 
 With BLoC, you can separate your application's business logic from the user interface, resulting in a clean and maintainable codebase. You'll explore the principles of reactive programming and learn how to use Streams and Sinks to manage and propagate data changes throughout your app.
